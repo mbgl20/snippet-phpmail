@@ -1,4 +1,4 @@
-<h1 align="center">phpMail</h1>
+<h1 align="center">snippet-phpmail</h1>
 <p align="center">send E-Mails</p>
 
 ---
@@ -6,6 +6,8 @@
 ## 📌 About
 
 Send E-Mails per php from the used domain!
+
+You can implement this in a password-reset process or similar!
 
 ---
 
@@ -18,6 +20,8 @@ Send E-Mails per php from the used domain!
 ## 💻 Installation
 
 **[ 1 ]** Copy the function either into every page or `include()` it with a shared file like `config.php` (recomended way).
+
+**[ 2 ]** Head to `mail.php` and replace my domain (`mabgl.com`) with yours!
 
 **[ 2 ]** Ready to use!
 
